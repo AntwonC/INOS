@@ -1,0 +1,29 @@
+
+label   {
+    display:block;
+}
+
+#question   {
+   overflow: auto;
+   
+}
+
+
+.container  {
+    margin: 0 auto; 
+    width: 50%;    
+    
+}
+
+#aboutme    {
+    border: 0.5px solid red; 
+    font-style: oblique; 
+}
+    
+
+
+
+
+
+
+
